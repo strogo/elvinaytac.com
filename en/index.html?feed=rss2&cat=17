@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Naturmort</title>
+	<atom:link href="http://elvinaytac.com/en/?feed=rss2&#038;cat=17" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:03:17 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Flowers</title>
+		<link>http://elvinaytac.com/en/?p=414</link>
+		<comments>http://elvinaytac.com/en/?p=414#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:25:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Naturmort]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=414</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/11.JPG"><img class="alignnone size-full wp-image-378" title="11" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/11.JPG" alt="11" width="490" height="720" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=414</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flowers</title>
+		<link>http://elvinaytac.com/en/?p=412</link>
+		<comments>http://elvinaytac.com/en/?p=412#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:24:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Naturmort]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=412</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/10.JPG"><img class="alignnone size-full wp-image-377" title="10" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/10.JPG" alt="10" width="480" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=412</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flowers</title>
+		<link>http://elvinaytac.com/en/?p=409</link>
+		<comments>http://elvinaytac.com/en/?p=409#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:21:48 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Naturmort]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=409</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/5.JPG"><img class="alignnone size-full wp-image-372" title="5" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/5.JPG" alt="5" width="480" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=409</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fruits</title>
+		<link>http://elvinaytac.com/en/?p=406</link>
+		<comments>http://elvinaytac.com/en/?p=406#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:19:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Naturmort]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=406</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/7.JPG"><img class="alignnone size-full wp-image-374" title="7" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/7.JPG" alt="7" width="504" height="378" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=406</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

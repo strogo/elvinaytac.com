@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Portrait</title>
+	<atom:link href="http://elvinaytac.com/en/?feed=rss2&#038;cat=16" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:03:17 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Portrait</title>
+		<link>http://elvinaytac.com/en/?p=404</link>
+		<comments>http://elvinaytac.com/en/?p=404#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:18:47 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Portrait]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=404</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/12.JPG"><img class="alignnone size-full wp-image-379" title="12" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/12.JPG" alt="12" width="487" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=404</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portrait</title>
+		<link>http://elvinaytac.com/en/?p=402</link>
+		<comments>http://elvinaytac.com/en/?p=402#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:17:14 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Portrait]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=402</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/13.JPG"><img class="alignnone size-full wp-image-380" title="13" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/13.JPG" alt="13" width="600" height="800" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=402</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portrait</title>
+		<link>http://elvinaytac.com/en/?p=400</link>
+		<comments>http://elvinaytac.com/en/?p=400#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:16:25 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Portrait]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=400</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/8.JPG"><img class="alignnone size-full wp-image-375" title="8" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/8.JPG" alt="8" width="480" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=400</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portrait</title>
+		<link>http://elvinaytac.com/en/?p=398</link>
+		<comments>http://elvinaytac.com/en/?p=398#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:15:16 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Portrait]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=398</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/6.JPG"><img class="alignnone size-full wp-image-373" title="6" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/6.JPG" alt="6" width="500" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=398</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Kişisel</title>
+	<atom:link href="http://elvinaytac.com/tr/?feed=rss2&#038;cat=8" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/tr</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:04:28 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Sergi 2010</title>
+		<link>http://elvinaytac.com/tr/?p=22</link>
+		<comments>http://elvinaytac.com/tr/?p=22#comments</comments>
+		<pubDate>Sun, 22 Feb 2009 19:30:16 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Kişisel]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/tr/?p=22</guid>
+		<description><![CDATA[
+İNSANLIĞIN İZİNDE
+2007 yılından itibaren günlük yaşamdaki çalışan insanları inceleyerek yapmaya başladığı resimlerini “İnsanlığın İzinde” adlı sergide resimseverlerin beğenisine sunacaktır.
+Bu sergide 22 tane farklı karakterde insanın, geçmişte ve günümüzdeki hayatlarını anlatan kesitler bulunmaktadır. Resimlerde bazen insanların yüzünde yaptıkları işin verdiği yorgunluğu, bazen de mutluluğu görmek mümkün olmaktadır.
+“İnsanlığın İzinde” adlı sergisi çok yakın bir tarihte resim severlerle [...]]]></description>
+			<content:encoded><![CDATA[<div class="entry">
+<p>İNSANLIĞIN İZİNDE</p>
+<p>2007 yılından itibaren günlük yaşamdaki çalışan insanları inceleyerek yapmaya başladığı resimlerini “İnsanlığın İzinde” adlı sergide resimseverlerin beğenisine sunacaktır.</p>
+<p>Bu sergide 22 tane farklı karakterde insanın, geçmişte ve günümüzdeki hayatlarını anlatan kesitler bulunmaktadır. Resimlerde bazen insanların yüzünde yaptıkları işin verdiği yorgunluğu, bazen de mutluluğu görmek mümkün olmaktadır.</p>
+<p>“İnsanlığın İzinde” adlı sergisi çok yakın bir tarihte resim severlerle buluşacaktır.</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/tr/?feed=rss2&amp;p=22</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Mixed Technique</title>
+	<atom:link href="http://elvinaytac.com/en/?feed=rss2&#038;cat=14" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:03:17 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Dry Brush &amp; Pastel</title>
+		<link>http://elvinaytac.com/en/?p=452</link>
+		<comments>http://elvinaytac.com/en/?p=452#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 16:52:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Mixed Technique]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=452</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2010/01/15.JPG"><img class="alignnone size-full wp-image-382" title="15" src="http://elvinaytac.com/en/wp-content/uploads/2010/01/15.JPG" alt="15" width="506" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=452</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

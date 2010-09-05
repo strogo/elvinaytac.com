@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Karma</title>
+	<atom:link href="http://elvinaytac.com/tr/?feed=rss2&#038;cat=9" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/tr</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:04:28 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Sergi 2007</title>
+		<link>http://elvinaytac.com/tr/?p=266</link>
+		<comments>http://elvinaytac.com/tr/?p=266#comments</comments>
+		<pubDate>Mon, 23 Feb 2009 23:24:10 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Karma]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/tr/?p=266</guid>
+		<description><![CDATA[
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye-on.jpg"><img class="alignnone size-full wp-image-265" title="davetiye-on" src="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye-on.jpg" alt="davetiye-on" width="232" height="486" /></a><a href="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye-arka.jpg"><img class="alignnone size-full wp-image-269" title="davetiye-arka" src="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye-arka.jpg" alt="davetiye-arka" width="232" height="486" /></a></p>
+<p><a href="http://elvinaytac.com/tr/wp-content/uploads/2009/02/hintliler.jpg"><img class="alignnone size-full wp-image-273" title="hintliler" src="http://elvinaytac.com/tr/wp-content/uploads/2009/02/hintliler.jpg" alt="hintliler" width="491" height="369" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/tr/?feed=rss2&amp;p=266</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sergi 2005</title>
+		<link>http://elvinaytac.com/tr/?p=260</link>
+		<comments>http://elvinaytac.com/tr/?p=260#comments</comments>
+		<pubDate>Mon, 23 Feb 2009 23:18:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Karma]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/tr/?p=260</guid>
+		<description><![CDATA[
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye.jpg"><img class="alignnone size-full wp-image-259" title="davetiye" src="http://elvinaytac.com/tr/wp-content/uploads/2009/02/davetiye.jpg" alt="davetiye" width="535" height="397" /></a></p>
+<p><a href="http://elvinaytac.com/tr/wp-content/uploads/2009/02/gul.jpg"><img class="alignnone size-full wp-image-261" title="gul" src="http://elvinaytac.com/tr/wp-content/uploads/2009/02/gul.jpg" alt="gul" width="498" height="663" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/tr/?feed=rss2&amp;p=260</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Karışık Teknik</title>
+	<atom:link href="http://elvinaytac.com/tr/?feed=rss2&#038;cat=14" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/tr</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:04:28 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Kuru Fırça ve Pastel</title>
+		<link>http://elvinaytac.com/tr/?p=457</link>
+		<comments>http://elvinaytac.com/tr/?p=457#comments</comments>
+		<pubDate>Sun, 03 Jan 2010 15:25:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Karışık Teknik]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/tr/?p=457</guid>
+		<description><![CDATA[
+]]></description>
+			<content:encoded><![CDATA[<p style="text-align: center;"><a href="http://elvinaytac.com/tr/wp-content/uploads/2010/01/15.JPG"><img class="aligncenter size-full wp-image-452" title="15" src="http://elvinaytac.com/tr/wp-content/uploads/2010/01/15.JPG" alt="15" width="506" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/tr/?feed=rss2&amp;p=457</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

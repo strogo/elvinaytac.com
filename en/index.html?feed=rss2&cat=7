@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elvin Aytaç &#187; Exhibitions</title>
+	<atom:link href="http://elvinaytac.com/en/?feed=rss2&#038;cat=7" rel="self" type="application/rss+xml" />
+	<link>http://elvinaytac.com/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Jan 2010 17:03:17 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.8.5</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Exhibition 2009</title>
+		<link>http://elvinaytac.com/en/?p=362</link>
+		<comments>http://elvinaytac.com/en/?p=362#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 22:24:58 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Personal]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=362</guid>
+		<description><![CDATA[
+PURSUIT of HUMANITY
+She has been especially painting working people since 2007; and she will gather all of these painting together with the name of “Pursuit of Humanity” exhibition very soon.
+In this exhibition she is going to show 22 different working people from past and today. One can see the happiness of working or  the tiredness [...]]]></description>
+			<content:encoded><![CDATA[<div class="entry">
+<p>PURSUIT of HUMANITY</p>
+<p>She has been especially painting working people since 2007; and she will gather all of these painting together with the name of “Pursuit of Humanity” exhibition very soon.</p>
+<p>In this exhibition she is going to show 22 different working people from past and today. One can see the happiness of working or  the tiredness of working on the faces of her paintings.</p>
+<p>“Pursuit of Humanity” exhibition will be ready to visit in very near future.</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=362</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Exhibition 2007</title>
+		<link>http://elvinaytac.com/en/?p=291</link>
+		<comments>http://elvinaytac.com/en/?p=291#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 16:31:03 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Mixed]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=291</guid>
+		<description><![CDATA[
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye-on.jpg"><img class="alignnone size-full wp-image-288" title="davetiye-on" src="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye-on.jpg" alt="davetiye-on" width="234" height="491" /></a><a href="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye-arka.jpg"><img class="alignnone size-full wp-image-289" title="davetiye-arka" src="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye-arka.jpg" alt="davetiye-arka" width="234" height="491" /></a></p>
+<p><a href="http://elvinaytac.com/en/wp-content/uploads/2009/02/hintliler.jpg"><img class="alignnone size-full wp-image-290" title="hintliler" src="http://elvinaytac.com/en/wp-content/uploads/2009/02/hintliler.jpg" alt="hintliler" width="491" height="369" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=291</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Exhibition 2005</title>
+		<link>http://elvinaytac.com/en/?p=285</link>
+		<comments>http://elvinaytac.com/en/?p=285#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 16:24:20 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Mixed]]></category>
+
+		<guid isPermaLink="false">http://elvinaytac.com/en/?p=285</guid>
+		<description><![CDATA[
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye.jpg"><img class="alignnone size-full wp-image-283" title="davetiye" src="http://elvinaytac.com/en/wp-content/uploads/2009/02/davetiye.jpg" alt="davetiye" width="535" height="397" /></a></p>
+<p><a href="http://elvinaytac.com/en/wp-content/uploads/2009/02/gul.jpg"><img class="alignnone size-full wp-image-284" title="gul" src="http://elvinaytac.com/en/wp-content/uploads/2009/02/gul.jpg" alt="gul" width="538" height="717" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://elvinaytac.com/en/?feed=rss2&amp;p=285</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
